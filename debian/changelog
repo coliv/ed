@@ -1,5 +1,5 @@
 ed (1.6~rc3-1) unstable; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release.
 
- -- Mahyuddin Susanto <udienz@ubuntu.com>  Thu, 20 Oct 2011 17:30:29 +0700
+ -- Mahyuddin Susanto <udienz@ubuntu.com>  Thu, 20 Oct 2011 22:17:15 +0700
