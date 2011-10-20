@@ -1,10 +1,16 @@
-Format: http://dep.debian.net/deps/dep5
+Format: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=174 
 Upstream-Name: ed
-Source: <url://example.com>
+Source: http://www.gnu.org/software/ed/
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: 1993, 1994, 2006, 2007, 2008, 2009, 2010, 2011 Free Software Foundation, Inc 
+ 2006, 2007, 2008, 2009 Backus <ericb@lsid.hp.com>
+ 1993, Karl Berry <kb@cs.umb.edu>
+ 1994, 2011 Theo Deraadt <deraadt@newt.fsa.ca>
+ 2006, 2007 Kaveh R. Ghazi <ghazi@noc.rutgers.edu>
+ 2010, 2011 Mike Haertel <mike@ichips.intel.com>
+ 2011 Francois Pinard <pinard@iro.umontreal.ca>
+ 1993, 1994  Rodney Ruddock <rodney@snowhite.cis.uoguelph.ca>
 License: GPL-3.0+
 
 Files: debian/*
@@ -27,6 +33,3 @@ License: GPL-3.0+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
-
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.

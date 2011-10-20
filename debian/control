@@ -5,11 +5,16 @@ Maintainer: Mahyuddin Susanto <udienz@ubuntu.com>
 Build-Depends: debhelper (>= 8.0.0), autotools-dev
 Standards-Version: 3.9.2
 Homepage: http://www.gnu.org/software/ed/ 
-Vcs-Git: git://git.debian.org/collab-maint/ed.git
-#Vcs-Browser: http://git.debian.org/?p=collab-maint/ed.git;a=summary
+Vcs-Git: git://github.com/udienz/ed.git
+Vcs-Browser: https://udienz@github.com/udienz/ed.git
 
 Package: ed
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: classic UNIX line editor
+ ed is a line-oriented text editor.  It is used to
+ create, display, modify and otherwise manipulate text
+ files.
+ .
+ red is a restricted ed: it can only edit files in the
+ current directory and cannot execute shell commands.
