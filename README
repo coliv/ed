@@ -1,3 +1,5 @@
+// --- forked on 10/21/11
+
 GNU ed is a line-oriented text editor. It is used to create, display,
 modify and otherwise manipulate text files, both interactively and via
 shell scripts. A restricted version of ed, red, can only edit files in
